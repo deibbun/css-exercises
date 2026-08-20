@@ -1,1 +1,28 @@
 /* Add CSS Styling */
+.class{
+    background-color: pink;
+}
+
+.line1{
+    font-size: 32px;
+}
+
+.line3{
+    font-size: 48px;
+}
+
+.line5{
+    font-size: 24px;
+}
+
+#line2{
+    font-size: 64px;
+    color: blue;
+    font-weight: 800;
+}
+
+#line4{
+    font-size: 48px;
+    font-weight: 800;
+    background-color: lightgreen;
+}
